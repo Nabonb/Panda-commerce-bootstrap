@@ -1,0 +1,51 @@
+.top-sec-color{
+    background-color: #fbeae8;
+}
+.btn-color{
+    background-color: #f8378c;
+}
+.h1-color{
+    color: #f8378c;
+}
+.header-margin{
+    margin-bottom: 100px;
+}
+.catagories-img{
+    width: 100px;
+}
+.watch-bg-color{
+    background-color: #fba526;
+}
+.bag-bg-color{
+    background-color: #d86ed4;
+}
+.shoe-bg-color{
+    background-color: #6392c5;
+}
+.catagorie-margin{
+    margin-bottom: 150px;
+}
+.buy-now-btn{
+    background-color: #f8378c;
+}
+.buy-now-btn:hover{
+    background-color: #f8378c;
+}
+.shoes-margin{
+    margin-bottom: 150px;
+}
+.bags-margin{
+    margin-bottom: 150px;
+}
+.submit-btn{
+    background-color: #f8378c;
+}
+.submit-btn:hover{
+    background-color: #f8378c;
+}
+.subscribe-bg-color{
+    background-color: #fbeae8;
+}
+footer{
+    margin-top: 150px;
+}
